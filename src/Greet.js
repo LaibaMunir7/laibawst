@@ -1,5 +1,5 @@
 import React from 'react';
 
 export const Greet = () => {
-  return <h1>Hello BSCS-5th</h1>;
+  return <h1>Hello This is my first jss project.</h1>;
 };
